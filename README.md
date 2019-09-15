@@ -47,3 +47,19 @@ Snowflake Obsidian - A strong gem capable of summoning anvils on top of mobs.
 Nephrite - Air force pilots.
 
 Sapphires - Gems capable of telling the future
+
+Cracked Gems - Gems that are constantly in pain and have white eyes.
+
+Destabilizer - A weapon that can be used to poof gems.
+
+Rejuvinator - A weapon used to reset gems to how they first came out of the ground.
+
+Clams - An item that when right clicked, gives the player a Pearl that is the color of their choosing.
+
+Gem Bursts - A burst of light indicating a gem has formed. It hurts any entities in the way so watch out.
+
+Visors - Decorative headwear (comes in monicles too!).
+
+Bubbles - An entity that is capable of holding items inside of it.
+
+Figurine Bubble - A bubble that gives the player little figurines that resemble humans.
