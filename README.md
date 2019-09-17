@@ -40,7 +40,7 @@ Topazes - Warrior gems that can pick up and throw monsters.
 
 Watermelon Tourmaline - A gem capable of using spike attacks on mobs.
 
-Jarcabite - A gem with a large inventory due to the jar always on their back.
+Desert Glass - A gem with a large inventory due to the jar always on their back.
 
 Snowflake Obsidian - A strong gem capable of summoning anvils on top of mobs.
 
